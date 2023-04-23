@@ -1,22 +1,29 @@
 body {
     font-family: sans-serif;
-    background-color: beige;
+    text-align: center;
   }
   
-  h1,
-  h2 {
-    font-weight: 700;
+  h1 {
+    font-weight: 100;
     font-family: 'Oswald', sans-serif;
+    font-size: 600%;
+    text-align: center;
+  }
+
+  h2 {
+    font-weight: 100;
+    font-family: 'Oswald', sans-serif;
+    font-size: 300%;
+    text-align: center;
   }
  
   .team-profile-header {
-    background-color: #fa3753;
-    color: white;
     padding: 3rem;
+    color: #373dd5;
   }
   
   .employee-header {
-    padding-top: 10px;
-    background-color: #3138f6;
+    padding-top: 20px;
+    background-color: #373dd5;
     color: white;
   }
